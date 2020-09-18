@@ -1,2 +1,2 @@
 # vef2verk2
-[Heroku hýsing]()
+[Heroku hýsing](https://d4nnivef2verk2.herokuapp.com/)
